@@ -1,0 +1,11 @@
+{
+  "name": "Chord_chat-master",
+  "version": "1.0.0",
+  "dependencies": {
+    "big-integer": "^1.6.48",
+    "co": "^4.6.0",
+    "simple-peer": "^9.10.0",
+    "socket.io": "^3.1.2",
+    "socket.io-client": "^3.1.2"
+  }
+}
